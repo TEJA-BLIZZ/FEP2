@@ -1,0 +1,12 @@
+.content{
+    background-color: bisque;
+}
+.header{
+    background-color: blue;
+}
+.body{
+    background-color: rgba(red, green, blue, alpha);
+}
+.footer{
+    background-color: blueviolet;
+}
